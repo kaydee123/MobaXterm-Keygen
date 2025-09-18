@@ -10,8 +10,6 @@
 
 A modern, user-friendly web tool for generating activation keys and customizing MobaXterm, the ultimate terminal emulator for Windows with an integrated X11 server, SSH client, and comprehensive network toolset.
 
-![MobaXterm Key Generator Screenshot](https://d2bgqtsoaxm8w0.cloudfront.net/uploads/images/v2-4.png)
-
 ## Features
 
 - **✨ Clean, Modern UI** - Responsive design optimized for both desktop and mobile
